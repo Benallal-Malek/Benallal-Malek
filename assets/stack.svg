@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="86" viewBox="0 0 840 86" role="img" aria-labelledby="title">
+  <title id="title">Technology stack</title>
+  <g transform="translate(0 0)">
+    <rect x="1" y="1" width="96" height="82" rx="14" fill="#151a30" stroke="#404a69"/>
+    <rect x="26" y="11" width="46" height="37" rx="9" fill="#ffa992" fill-opacity=".13"/>
+    <text x="49" y="35" text-anchor="middle" font-family="DejaVu Sans Mono, monospace" font-size="15" font-weight="700" fill="#ffa992">5</text>
+    <text x="49" y="66" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="700" fill="#eff3ff">HTML</text>
+  </g>
+  <g transform="translate(106 0)">
+    <rect x="1" y="1" width="96" height="82" rx="14" fill="#151a30" stroke="#404a69"/>
+    <rect x="26" y="11" width="46" height="37" rx="9" fill="#8ec3ff" fill-opacity=".13"/>
+    <text x="49" y="35" text-anchor="middle" font-family="DejaVu Sans Mono, monospace" font-size="15" font-weight="700" fill="#8ec3ff">3</text>
+    <text x="49" y="66" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="700" fill="#eff3ff">CSS</text>
+  </g>
+  <g transform="translate(212 0)">
+    <rect x="1" y="1" width="96" height="82" rx="14" fill="#151a30" stroke="#404a69"/>
+    <rect x="26" y="11" width="46" height="37" rx="9" fill="#ffe092" fill-opacity=".13"/>
+    <text x="49" y="35" text-anchor="middle" font-family="DejaVu Sans Mono, monospace" font-size="15" font-weight="700" fill="#ffe092">JS</text>
+    <text x="49" y="66" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="700" fill="#eff3ff">JavaScript</text>
+  </g>
+  <g transform="translate(318 0)">
+    <rect x="1" y="1" width="96" height="82" rx="14" fill="#151a30" stroke="#404a69"/>
+    <rect x="26" y="11" width="46" height="37" rx="9" fill="#c5b9ff" fill-opacity=".13"/>
+    <text x="49" y="35" text-anchor="middle" font-family="DejaVu Sans Mono, monospace" font-size="15" font-weight="700" fill="#c5b9ff">PHP</text>
+    <text x="49" y="66" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="700" fill="#eff3ff">PHP</text>
+  </g>
+  <g transform="translate(424 0)">
+    <rect x="1" y="1" width="96" height="82" rx="14" fill="#151a30" stroke="#404a69"/>
+    <rect x="26" y="11" width="46" height="37" rx="9" fill="#9ed9ff" fill-opacity=".13"/>
+    <text x="49" y="35" text-anchor="middle" font-family="DejaVu Sans Mono, monospace" font-size="15" font-weight="700" fill="#9ed9ff">WP</text>
+    <text x="49" y="66" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="700" fill="#eff3ff">WordPress</text>
+  </g>
+  <g transform="translate(530 0)">
+    <rect x="1" y="1" width="96" height="82" rx="14" fill="#151a30" stroke="#404a69"/>
+    <rect x="26" y="11" width="46" height="37" rx="9" fill="#e1aaff" fill-opacity=".13"/>
+    <text x="49" y="35" text-anchor="middle" font-family="DejaVu Sans Mono, monospace" font-size="15" font-weight="700" fill="#e1aaff">WC</text>
+    <text x="49" y="66" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="700" fill="#eff3ff">WooCommerce</text>
+  </g>
+  <g transform="translate(636 0)">
+    <rect x="1" y="1" width="96" height="82" rx="14" fill="#151a30" stroke="#404a69"/>
+    <rect x="26" y="11" width="46" height="37" rx="9" fill="#93e1d5" fill-opacity=".13"/>
+    <text x="49" y="35" text-anchor="middle" font-family="DejaVu Sans Mono, monospace" font-size="15" font-weight="700" fill="#93e1d5">ACF</text>
+    <text x="49" y="66" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="700" fill="#eff3ff">ACF</text>
+  </g>
+  <g transform="translate(742 0)">
+    <rect x="1" y="1" width="96" height="82" rx="14" fill="#151a30" stroke="#404a69"/>
+    <rect x="26" y="11" width="46" height="37" rx="9" fill="#ffb1a4" fill-opacity=".13"/>
+    <text x="49" y="35" text-anchor="middle" font-family="DejaVu Sans Mono, monospace" font-size="15" font-weight="700" fill="#ffb1a4">FIG</text>
+    <text x="49" y="66" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="700" fill="#eff3ff">Figma</text>
+  </g>
+</svg>
