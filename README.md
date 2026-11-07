@@ -26,9 +26,9 @@ I’m a freelance frontend and WordPress developer. I turn design mockups into r
 | <a href="https://github.com/Benallal-Malek/prntlab-woocommerce-theme"><img src="assets/prntlab.webp" width="190" alt="PRNTLAB theme preview"></a> | **[PRNTLAB](https://github.com/Benallal-Malek/prntlab-woocommerce-theme)** · WooCommerce theme for a hoodie store.<br>Variable products, editable sections, and a demo importer.<br>`WordPress` `WooCommerce` `ACF` `PHP` |
 
 <details>
-<summary><strong>Read more</strong> · 8 website projects</summary>
+<summary><strong>Read more</strong> · 9 website projects</summary>
 
-**[Website Portfolio](https://benallal-malek.github.io/website-portfolio/)** · Eight English-language demos with [source files](https://github.com/Benallal-Malek/website-portfolio).
+**[Website Portfolio](https://benallal-malek.github.io/website-portfolio/)** · Nine English-language demos with [source files](https://github.com/Benallal-Malek/website-portfolio).
 
 | Preview | Project |
 | :--- | :--- |
@@ -40,6 +40,7 @@ I’m a freelance frontend and WordPress developer. I turn design mockups into r
 | <a href="https://benallal-malek.github.io/website-portfolio/projects/fite-lite/"><img src="assets/previews/fite-lite.webp" width="190" alt="Fite Lite preview"></a> | **Fite Lite** · Fitness studio landing page with programs and a testimonials carousel.<br>[Live demo](https://benallal-malek.github.io/website-portfolio/projects/fite-lite/) · [Source code](https://github.com/Benallal-Malek/website-portfolio/tree/main/projects/fite-lite/) |
 | <a href="https://benallal-malek.github.io/website-portfolio/projects/head-phones/"><img src="assets/previews/head-phones.webp" width="190" alt="Shopkart preview"></a> | **Shopkart** · Headphone catalog with search, sorting, filters, and favorites.<br>[Live demo](https://benallal-malek.github.io/website-portfolio/projects/head-phones/) · [Source code](https://github.com/Benallal-Malek/website-portfolio/tree/main/projects/head-phones/) |
 | <a href="https://benallal-malek.github.io/website-portfolio/projects/iner-balance/"><img src="assets/previews/iner-balance.webp" width="190" alt="Inner Balance preview"></a> | **Inner Balance** · Therapist landing page with service descriptions and a consultation form.<br>[Live demo](https://benallal-malek.github.io/website-portfolio/projects/iner-balance/) · [Source code](https://github.com/Benallal-Malek/website-portfolio/tree/main/projects/iner-balance/) |
+| <a href="https://benallal-malek.github.io/website-portfolio/projects/vasella/"><img src="assets/previews/vasella.webp" width="190" alt="Vasella storefront preview"></a> | **Vasella** · Artisan vase shop with a searchable catalog, favorites, and a demo cart.<br>[Live demo](https://benallal-malek.github.io/website-portfolio/projects/vasella/) · [WordPress theme](https://github.com/Benallal-Malek/vasella-woocommerce-theme) |
 
 </details>
 

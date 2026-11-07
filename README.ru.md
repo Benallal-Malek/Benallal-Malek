@@ -26,9 +26,9 @@
 | <a href="https://github.com/Benallal-Malek/prntlab-woocommerce-theme"><img src="assets/prntlab.webp" width="190" alt="Превью темы PRNTLAB"></a> | **[PRNTLAB](https://github.com/Benallal-Malek/prntlab-woocommerce-theme)** · Тема WooCommerce для магазина худи.<br>Товары с вариациями размеров, редактируемые блоки и импорт демоданных.<br>`WordPress` `WooCommerce` `ACF` `PHP` |
 
 <details>
-<summary><strong>Читать дальше</strong> · 8 сайтов</summary>
+<summary><strong>Читать дальше</strong> · 9 сайтов</summary>
 
-**[Коллекция сайтов](https://benallal-malek.github.io/website-portfolio/)** · Восемь англоязычных демо с [исходным кодом](https://github.com/Benallal-Malek/website-portfolio).
+**[Коллекция сайтов](https://benallal-malek.github.io/website-portfolio/)** · Девять англоязычных демо с [исходным кодом](https://github.com/Benallal-Malek/website-portfolio).
 
 | Превью | Проект |
 | :--- | :--- |
@@ -40,6 +40,7 @@
 | <a href="https://benallal-malek.github.io/website-portfolio/projects/fite-lite/"><img src="assets/previews/fite-lite.webp" width="190" alt="Превью Fite Lite"></a> | **Fite Lite** · Лендинг фитнес-студии с программами тренировок и каруселью отзывов.<br>[Открыть демо](https://benallal-malek.github.io/website-portfolio/projects/fite-lite/) · [Исходный код](https://github.com/Benallal-Malek/website-portfolio/tree/main/projects/fite-lite/) |
 | <a href="https://benallal-malek.github.io/website-portfolio/projects/head-phones/"><img src="assets/previews/head-phones.webp" width="190" alt="Превью Shopkart"></a> | **Shopkart** · Каталог наушников с поиском, сортировкой, фильтрами и избранным.<br>[Открыть демо](https://benallal-malek.github.io/website-portfolio/projects/head-phones/) · [Исходный код](https://github.com/Benallal-Malek/website-portfolio/tree/main/projects/head-phones/) |
 | <a href="https://benallal-malek.github.io/website-portfolio/projects/iner-balance/"><img src="assets/previews/iner-balance.webp" width="190" alt="Превью Inner Balance"></a> | **Inner Balance** · Лендинг психолога с описанием услуг и записью на консультацию.<br>[Открыть демо](https://benallal-malek.github.io/website-portfolio/projects/iner-balance/) · [Исходный код](https://github.com/Benallal-Malek/website-portfolio/tree/main/projects/iner-balance/) |
+| <a href="https://benallal-malek.github.io/website-portfolio/projects/vasella/"><img src="assets/previews/vasella.webp" width="190" alt="Превью витрины Vasella"></a> | **Vasella** · Магазин авторских ваз с поиском по каталогу, избранным и демо-корзиной.<br>[Открыть демо](https://benallal-malek.github.io/website-portfolio/projects/vasella/) · [Тема WordPress](https://github.com/Benallal-Malek/vasella-woocommerce-theme) |
 
 </details>
 
