@@ -20,6 +20,8 @@ I’m a freelance frontend and WordPress developer. I turn design mockups into r
 
 ## Selected projects
 
+**[Website Portfolio](https://benallal-malek.github.io/website-portfolio/)** · Eight English-language demos with [source files](https://github.com/Benallal-Malek/website-portfolio).
+
 | Preview | Project |
 | :--- | :--- |
 | <a href="https://github.com/Benallal-Malek/nihon-landing"><img src="assets/nihon.webp" width="190" alt="Nihon project illustration"></a> | **[Nihon](https://github.com/Benallal-Malek/nihon-landing)** · Japanese language school landing page.<br>Responsive layout, mobile navigation, and a demo signup form.<br>`HTML` `CSS` `JavaScript` |
