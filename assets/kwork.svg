@@ -1,5 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="122" height="32" viewBox="0 0 122 32" role="img" aria-label="KWORK">
+  <metadata>Kwork logo geometry from https://kwork.ru/.</metadata>
   <rect x=".5" y=".5" width="121" height="31" rx="8" fill="#16382f" stroke="#95e8be" stroke-opacity=".7"/>
-  <g fill="none" stroke="#95e8be" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="13.5" y="12" width="13" height="9" rx="2"/><path d="M17 12v-1.5a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1V12m-9.5 3.5h13"/></g>
+  <svg x="12" y="8" width="16" height="16" viewBox="0 1.846 19.158 20.066">
+    <path fill="#fff" fill-rule="evenodd" d="m19.158 21.912-8.543-10.595 8.012-9.369H13.32L1.9 16.188v5.724h4.298V15.78l1.575-1.857 6.095 7.989z"/>
+    <path fill="#FE7A32" fill-rule="evenodd" d="M6.198 6.087 1.9 11.283V4.435H0V1.846h6.198z"/>
+  </svg>
   <text x="36" y="20.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.3" fill="#f2f5ff">KWORK</text>
 </svg>
