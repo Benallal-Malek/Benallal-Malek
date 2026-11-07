@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Benallal Malek — Frontend &amp; WordPress Developer" width="100%">
+  <img src="assets/profile-banner-benallal-malek.svg" alt="Benallal Malek — Frontend &amp; WordPress Developer" width="100%">
 </p>
 
 <p align="center">
