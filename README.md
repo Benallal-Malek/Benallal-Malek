@@ -20,12 +20,28 @@ I’m a freelance frontend and WordPress developer. I turn design mockups into r
 
 ## Selected projects
 
-**[Website Portfolio](https://benallal-malek.github.io/website-portfolio/)** · Eight English-language demos with [source files](https://github.com/Benallal-Malek/website-portfolio).
-
 | Preview | Project |
 | :--- | :--- |
 | <a href="https://github.com/Benallal-Malek/nihon-landing"><img src="assets/nihon.webp" width="190" alt="Nihon project illustration"></a> | **[Nihon](https://github.com/Benallal-Malek/nihon-landing)** · Japanese language school landing page.<br>Responsive layout, mobile navigation, and a demo signup form.<br>`HTML` `CSS` `JavaScript` |
 | <a href="https://github.com/Benallal-Malek/prntlab-woocommerce-theme"><img src="assets/prntlab.webp" width="190" alt="PRNTLAB theme preview"></a> | **[PRNTLAB](https://github.com/Benallal-Malek/prntlab-woocommerce-theme)** · WooCommerce theme for a hoodie store.<br>Variable products, editable sections, and a demo importer.<br>`WordPress` `WooCommerce` `ACF` `PHP` |
+
+<details>
+<summary><strong>Read more</strong> · 8 website projects</summary>
+
+**[Website Portfolio](https://benallal-malek.github.io/website-portfolio/)** · Eight English-language demos with [source files](https://github.com/Benallal-Malek/website-portfolio).
+
+| Preview | Project |
+| :--- | :--- |
+| <a href="https://benallal-malek.github.io/website-portfolio/projects/art-remont/"><img src="https://raw.githubusercontent.com/Benallal-Malek/website-portfolio/main/projects/art-remont/assets/hero.webp" width="190" alt="Art Remont preview"></a> | **Art Remont** · Interior renovation landing page with project galleries and an estimate form.<br>[Live demo](https://benallal-malek.github.io/website-portfolio/projects/art-remont/) · [Source code](https://github.com/Benallal-Malek/website-portfolio/tree/main/projects/art-remont/) |
+| <a href="https://benallal-malek.github.io/website-portfolio/projects/bloomfy/"><img src="https://raw.githubusercontent.com/Benallal-Malek/website-portfolio/main/projects/bloomfy/assets/hero.webp" width="190" alt="BloomFi preview"></a> | **BloomFi** · Investment landing page with service and portfolio sections.<br>[Live demo](https://benallal-malek.github.io/website-portfolio/projects/bloomfy/) · [Source code](https://github.com/Benallal-Malek/website-portfolio/tree/main/projects/bloomfy/) |
+| <a href="https://benallal-malek.github.io/website-portfolio/projects/buildpro/"><img src="https://raw.githubusercontent.com/Benallal-Malek/website-portfolio/main/projects/buildpro/assets/hero.webp" width="190" alt="BuildPro preview"></a> | **BuildPro** · Construction company website with services and an inquiry form.<br>[Live demo](https://benallal-malek.github.io/website-portfolio/projects/buildpro/) · [Source code](https://github.com/Benallal-Malek/website-portfolio/tree/main/projects/buildpro/) |
+| <a href="https://benallal-malek.github.io/website-portfolio/projects/carhive/"><img src="https://raw.githubusercontent.com/Benallal-Malek/website-portfolio/main/projects/carhive/assets/1.webp" width="190" alt="CarHive preview"></a> | **CarHive** · Auto repair and detailing website with service cards and animated counters.<br>[Live demo](https://benallal-malek.github.io/website-portfolio/projects/carhive/) · [Source code](https://github.com/Benallal-Malek/website-portfolio/tree/main/projects/carhive/) |
+| <a href="https://benallal-malek.github.io/website-portfolio/projects/cars/"><img src="https://raw.githubusercontent.com/Benallal-Malek/website-portfolio/main/projects/cars/assets/main-car.webp" width="190" alt="Cars preview"></a> | **Cars** · Premium car rental catalog with brand filters and a booking form.<br>[Live demo](https://benallal-malek.github.io/website-portfolio/projects/cars/) · [Source code](https://github.com/Benallal-Malek/website-portfolio/tree/main/projects/cars/) |
+| <a href="https://benallal-malek.github.io/website-portfolio/projects/fite-lite/"><img src="https://raw.githubusercontent.com/Benallal-Malek/website-portfolio/main/projects/fite-lite/assets/header.webp" width="190" alt="Fite Lite preview"></a> | **Fite Lite** · Fitness studio landing page with programs and a testimonials carousel.<br>[Live demo](https://benallal-malek.github.io/website-portfolio/projects/fite-lite/) · [Source code](https://github.com/Benallal-Malek/website-portfolio/tree/main/projects/fite-lite/) |
+| <a href="https://benallal-malek.github.io/website-portfolio/projects/head-phones/"><img src="https://raw.githubusercontent.com/Benallal-Malek/website-portfolio/main/projects/head-phones/assets/hero.webp" width="190" alt="Shopkart preview"></a> | **Shopkart** · Headphone catalog with search, sorting, filters, and favorites.<br>[Live demo](https://benallal-malek.github.io/website-portfolio/projects/head-phones/) · [Source code](https://github.com/Benallal-Malek/website-portfolio/tree/main/projects/head-phones/) |
+| <a href="https://benallal-malek.github.io/website-portfolio/projects/iner-balance/"><img src="https://raw.githubusercontent.com/Benallal-Malek/website-portfolio/main/projects/iner-balance/assets/hero.webp" width="190" alt="Inner Balance preview"></a> | **Inner Balance** · Therapist landing page with service descriptions and a consultation form.<br>[Live demo](https://benallal-malek.github.io/website-portfolio/projects/iner-balance/) · [Source code](https://github.com/Benallal-Malek/website-portfolio/tree/main/projects/iner-balance/) |
+
+</details>
 
 ## Activity
 
