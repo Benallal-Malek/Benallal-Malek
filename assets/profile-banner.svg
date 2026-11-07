@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 336" role="img" aria-labelledby="title desc">
-  <title id="title">Abdel-Malek Benallal</title>
+  <title id="title">Benallal Malek</title>
   <desc id="desc">Frontend and WordPress developer. An illustrated code editor sits beside the name.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -24,8 +24,8 @@
     <circle cx="907" cy="319" r="3.5" fill="#93a8e8"/>
     <rect x="63" y="51" width="32" height="4" rx="2" fill="url(#accent)"/>
     <text x="109" y="58" fill="#b9c5e4" font-family="DejaVu Sans Mono, monospace" font-size="16" letter-spacing="2.3">DEVELOPER PORTFOLIO</text>
-    <text x="62" y="148" fill="#f5f7ff" font-family="DejaVu Sans, Arial, sans-serif" font-size="65" font-weight="700" letter-spacing="-2.5">Abdel-Malek</text>
-    <text x="62" y="225" fill="url(#accent)" font-family="DejaVu Sans, Arial, sans-serif" font-size="65" font-weight="700" letter-spacing="-2.5">Benallal</text>
+    <text x="62" y="148" fill="#f5f7ff" font-family="DejaVu Sans, Arial, sans-serif" font-size="65" font-weight="700" letter-spacing="-2.5">Benallal</text>
+    <text x="62" y="225" fill="url(#accent)" font-family="DejaVu Sans, Arial, sans-serif" font-size="65" font-weight="700" letter-spacing="-2.5">Malek</text>
     <text x="65" y="279" fill="#d6e0f9" font-family="DejaVu Sans, Arial, sans-serif" font-size="27">Frontend &amp; WordPress Developer</text>
     <rect x="704" y="66" width="440" height="227" rx="17" fill="#090e1e" opacity=".62"/>
     <rect x="693" y="54" width="440" height="227" rx="17" fill="#141a31" stroke="#55597e"/>
