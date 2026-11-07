@@ -11,11 +11,11 @@
 
 ## About me
 
-I’m a freelance frontend and WordPress developer. I turn Figma designs into responsive websites and build WordPress themes that clients can update themselves. I also develop WooCommerce storefronts with custom product pages, carts, and checkout flows.
+I’m a freelance frontend and WordPress developer. I turn design mockups into responsive websites and build WordPress themes that clients can update themselves. I also develop WooCommerce storefronts with custom product pages, carts, and checkout flows.
 
 ## Tech stack
 
-<img src="assets/stack.svg" alt="HTML, CSS, JavaScript, PHP, WordPress, WooCommerce, ACF, and Figma" width="640">
+<img src="assets/stack.svg" alt="HTML5, CSS3, JavaScript, PHP, WordPress, WooCommerce, and ACF" width="515">
 
 ## Selected projects
 
