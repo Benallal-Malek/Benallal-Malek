@@ -11,11 +11,11 @@
 
 ## Обо мне
 
-Я занимаюсь фронтендом и WordPress. Верстаю адаптивные сайты по макетам Figma, разрабатываю темы WordPress с редактируемым контентом и настраиваю магазины WooCommerce с каталогом, карточками товаров, корзиной и оформлением заказа.
+Я занимаюсь фронтендом и WordPress. Верстаю адаптивные сайты по макетам, разрабатываю темы WordPress с редактируемым контентом и настраиваю магазины WooCommerce с каталогом, карточками товаров, корзиной и оформлением заказа.
 
 ## Технологии
 
-<img src="assets/stack.svg" alt="HTML, CSS, JavaScript, PHP, WordPress, WooCommerce, ACF и Figma" width="640">
+<img src="assets/stack.svg" alt="HTML5, CSS3, JavaScript, PHP, WordPress, WooCommerce и ACF" width="515">
 
 ## Избранные проекты
 
