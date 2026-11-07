@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://lifeofmalek.ru/"><img src="assets/website.svg" alt="Personal website" width="122" height="32"></a>
   <a href="https://kwork.ru/user/pro100_malek"><img src="assets/kwork.svg" alt="Kwork profile" width="122" height="32"></a>
+  <a href="https://www.upwork.com/freelancers/malekbenallal"><img src="assets/upwork.svg" alt="Upwork profile" width="122" height="32"></a>
 </p>
 
 <p align="center"><a href="README.ru.md">Читать на русском</a></p>
