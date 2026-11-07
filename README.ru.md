@@ -20,6 +20,8 @@
 
 ## Избранные проекты
 
+**[Коллекция сайтов](https://benallal-malek.github.io/website-portfolio/)** · Восемь англоязычных демо с [исходным кодом](https://github.com/Benallal-Malek/website-portfolio).
+
 | Превью | Проект |
 | :--- | :--- |
 | <a href="https://github.com/Benallal-Malek/nihon-landing"><img src="assets/nihon.webp" width="190" alt="Иллюстрация Nihon"></a> | **[Nihon](https://github.com/Benallal-Malek/nihon-landing)** · Лендинг школы японского языка.<br>Адаптивная вёрстка, мобильное меню и демо формы записи.<br>`HTML` `CSS` `JavaScript` |
